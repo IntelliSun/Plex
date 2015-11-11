@@ -1,0 +1,3 @@
+[submodule "Libs/IntelliSun"]
+	path = Libs/IntelliSun
+	url = https://github.com/IntelliSun/IntelliSun.git
